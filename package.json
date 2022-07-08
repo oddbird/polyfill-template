@@ -44,5 +44,8 @@
   "devDependencies": {
     "@playwright/test": "^1.23.1",
     "stylis": "^4.1.1"
+  },
+  "dependencies": {
+    "esbuild": "^0.14.48"
   }
 }
