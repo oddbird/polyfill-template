@@ -29,9 +29,9 @@ export default defineConfig({
     reporters: 'dot',
     coverage: {
       enabled: true,
+      provider: 'istanbul',
       reporter: ['text-summary', 'html'],
-      include: ['src/**/*.{js,ts}'],
-      all: true,
+      exclude: ['tests/**/*'],
       skipFull: true,
       // Threshold
       statements: 90,

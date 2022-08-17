@@ -30,7 +30,7 @@
   "files": [
     "README.md",
     "src/**/*.ts",
-    "dist",
+    "dist/**/*",
     "package.json"
   ],
   "scripts": {
@@ -62,7 +62,7 @@
     "@types/node": "*",
     "@typescript-eslint/eslint-plugin": "^5.33.0",
     "@typescript-eslint/parser": "^5.33.0",
-    "@vitest/coverage-c8": "^0.22.0",
+    "@vitest/coverage-istanbul": "^0.22.0",
     "eslint": "^8.22.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-import-resolver-typescript": "^3.4.1",
