@@ -31,8 +31,9 @@ export default defineConfig({
       enabled: true,
       provider: 'istanbul',
       reporter: ['text-summary', 'html'],
-      exclude: ['tests/**/*'],
+      include: ['src/**/*.{js,ts}'],
       skipFull: true,
+      all: true,
       // Threshold
       statements: 90,
       branches: 90,
