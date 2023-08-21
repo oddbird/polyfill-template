@@ -57,26 +57,26 @@
     "test:ci": "run-p test:unit test:e2e:ci"
   },
   "devDependencies": {
-    "@playwright/test": "^1.37.0",
+    "@playwright/test": "^1.37.1",
     "@types/node": "*",
-    "@typescript-eslint/eslint-plugin": "^6.3.0",
-    "@typescript-eslint/parser": "^6.3.0",
-    "@vitest/coverage-istanbul": "^0.34.1",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.4.0",
+    "@vitest/coverage-istanbul": "^0.34.2",
     "eslint": "^8.47.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-import-resolver-typescript": "^3.6.0",
-    "eslint-plugin-import": "^2.28.0",
+    "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-jest": "^27.2.3",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "jsdom": "^22.1.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "^3.0.1",
-    "stylelint": "^15.10.2",
+    "prettier": "^3.0.2",
+    "stylelint": "^15.10.3",
     "stylelint-config-standard": "^34.0.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.6",
     "vite": "^4.4.9",
-    "vitest": "^0.34.1"
+    "vitest": "^0.34.2"
   },
   "resolutions": {
     "tslib": ">=2"
