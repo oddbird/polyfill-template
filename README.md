@@ -9,6 +9,6 @@ as well as CSS specifications for functions, mixins, and responsive typography.
 Help us keep this work sustainable 
 and centered on your needs as a developer! 
 We display sponsor logos and avatars 
-on our [website](https://www.oddbird.net/polyfill/#popover-polyfill).
+on our [website](https://www.oddbird.net/polyfill/#open-source-sponsors).
 
 [Sponsor OddBird's OSS Work](https://opencollective.com/oddbird-open-source)
