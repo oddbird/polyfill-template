@@ -59,8 +59,8 @@
   "devDependencies": {
     "@playwright/test": "^1.47.1",
     "@types/node": "*",
-    "@typescript-eslint/eslint-plugin": "^7.18.0",
-    "@typescript-eslint/parser": "^7.18.0",
+    "@typescript-eslint/eslint-plugin": "^8.6.0",
+    "@typescript-eslint/parser": "^8.6.0",
     "@vitest/coverage-istanbul": "^2.1.1",
     "eslint": "^8.57.1",
     "eslint-config-prettier": "^9.1.0",
@@ -80,11 +80,6 @@
   },
   "resolutions": {
     "tslib": ">=2"
-  },
-  "yarn-upgrade-all": {
-    "ignore": [
-      "@types/node"
-    ]
   },
   "packageManager": "yarn@4.5.0"
 }
