@@ -58,9 +58,9 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.28.0",
-    "@playwright/test": "^1.52.0",
+    "@playwright/test": "1.52.0",
     "@types/node": "*",
-    "@vitest/coverage-istanbul": "^3.1.4",
+    "@vitest/coverage-istanbul": "^3.2.0",
     "@vitest/eslint-plugin": "^1.2.1",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.5",
@@ -74,8 +74,8 @@
     "stylelint-config-standard": "^38.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.33.0",
+    "typescript-eslint": "^8.33.1",
     "vite": "^6.3.5",
-    "vitest": "^3.0.7"
+    "vitest": "^3.2.0"
   }
 }
