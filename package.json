@@ -57,25 +57,25 @@
     "test:ci": "run-p test:unit test:e2e:ci"
   },
   "devDependencies": {
-    "@eslint/js": "^9.25.1",
-    "@playwright/test": "^1.52.0",
+    "@eslint/js": "^9.28.0",
+    "@playwright/test": "1.52.0",
     "@types/node": "*",
-    "@vitest/coverage-istanbul": "^3.1.2",
-    "@vitest/eslint-plugin": "^1.1.43",
-    "eslint": "^9.25.1",
-    "eslint-config-prettier": "^10.1.2",
-    "eslint-import-resolver-typescript": "^4.3.4",
+    "@vitest/coverage-istanbul": "^3.2.0",
+    "@vitest/eslint-plugin": "^1.2.1",
+    "eslint": "^9.28.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-import-resolver-typescript": "^4.4.2",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "jsdom": "^26.1.0",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.5.3",
-    "stylelint": "^16.19.1",
+    "stylelint": "^16.20.0",
     "stylelint-config-standard": "^38.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.31.1",
-    "vite": "^6.3.4",
-    "vitest": "^3.0.7"
+    "typescript-eslint": "^8.33.1",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.0"
   }
 }
