@@ -60,7 +60,7 @@
     "@eslint/js": "^10.0.1",
     "@playwright/test": "1.63.0",
     "@types/node": "*",
-    "@vitest/coverage-istanbul": "^4.1.11",
+    "@vitest/coverage-istanbul": "^5.0.2",
     "@vitest/eslint-plugin": "^1.6.27",
     "eslint": "^10.11.0",
     "eslint-config-prettier": "^10.1.8",
@@ -74,9 +74,9 @@
     "stylelint": "^17.15.0",
     "stylelint-config-standard": "^40.0.0",
     "ts-node": "^10.9.2",
-    "typescript": "^6.0.3",
+    "typescript": "^7.0.2",
     "typescript-eslint": "^8.70.1",
     "vite": "^8.3.1",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.2"
   }
 }
